@@ -1,0 +1,13 @@
+---
+title: "Rebase Demo"
+format: html
+editor: visual
+---
+
+## \# Introduction
+
+This is a collaborative Quarto project.
+
+# Contributions
+
+<!-- Student sections will go here -->
